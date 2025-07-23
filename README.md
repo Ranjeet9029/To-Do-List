@@ -28,4 +28,4 @@ To practice front-end development by building an interactive task management app
 
 ## 👨‍💻 Developed By
 
-Ranjeet Kumar 
+Ranjeet kumar
